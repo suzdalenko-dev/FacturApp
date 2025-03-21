@@ -1,4 +1,3 @@
-http://factursapp.web.app
 
 Mi propuesta de proyecto consiste en el desarrollo de una aplicación web para la gestión ágil y eficiente de la creación de facturas.
 
@@ -18,3 +17,7 @@ Artículos (tabla articulos): Para gestionar los productos o servicios facturado
 Facturas (tabla facturas): Para registrar cada factura emitida.
 Líneas de facturas (tabla lineas_facturas): Para detallar los artículos incluidos en cada factura.
 Esta estructura permitirá un sistema flexible y escalable, adaptado a las necesidades de emprendedores y autónomos.
+
+
+Git Hub del proyecto: https://github.com/suzdalenko-dev/factursApp
+Url del proyecto:     http://factursapp.web.app
