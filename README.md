@@ -7,7 +7,7 @@ El objetivo principal es optimizar el proceso de facturación, permitiendo a los
 
 En el módulo hemos estudiado en la asignatura EIE diferentes formas de trabajar por cuenta propia. Una de las primeras necesidades al emprender es disponer de una aplicación para generar facturas, ya que se debe facturar desde el inicio, independientemente del volumen de negocio. Además, muchas aplicaciones comerciales de facturación requieren suscripciones costosas o pagos elevados, lo que puede ser una barrera para autónomos y pequeños negocios.
 
-Mi aplicación buscará ser una alternativa accesible y funcional, especialmente para personas que trabajen por cuenta propia, sin importar el sector en el que operen. Será útil tanto para desarrolladores de software como para dueños de talleres mecánicos, electricistas, fontaneros y cualquier otro profesional autónomo que necesite gestionar su facturación de manera sencilla y eficiente.
+Aplicación FactursApp buscará ser una alternativa accesible y funcional, especialmente para personas que trabajen por cuenta propia, sin importar el sector en el que operen. Será útil tanto para desarrolladores de software como para dueños de talleres mecánicos, electricistas, fontaneros y cualquier otro profesional autónomo que necesite gestionar su facturación de manera sencilla y eficiente.
 
 Inicialmente, la aplicación gestionará las siguientes entidades mediante bases de datos:
 
@@ -20,4 +20,8 @@ Esta estructura permitirá un sistema flexible y escalable, adaptado a las neces
 
 
 Git Hub del proyecto: https://github.com/suzdalenko-dev/factursApp
+
 Url del proyecto:     http://factursapp.web.app
+
+email: alexey.saron@gmail.com
+
