@@ -23,5 +23,5 @@ Git Hub del proyecto: https://github.com/suzdalenko-dev/factursApp
 
 Url del proyecto:     http://factursapp.web.app
 
-email: alexey.saron@gmail.com
+email: alexey.saron@gmail.com; simplefactura2024@gmail.com
 
