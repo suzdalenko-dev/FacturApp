@@ -26,7 +26,7 @@ Url del proyecto:     http://factursapp.web.app
 email: alexey.saron@gmail.com; simplefactura2024@gmail.com
 
 
-# Anteproyecto Alexey Suzdalenko DAW 2025
+# Anteproyecto Alexey Suzdalenko
 
 
 1. Problema o necesidad actual y propósito del proyecto
