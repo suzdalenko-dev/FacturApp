@@ -26,9 +26,9 @@ if(pageUrlD.includes('register')){
         }
     }, 5000);
 } else {
-    document.title = 'Factura App '+globalCurrentDate();
+    document.title = 'FacturApp Factura App '+globalCurrentDate();
     setInterval(() => {
-        document.title = 'Factura App '+globalCurrentDate();
+        document.title = 'FacturApp '+globalCurrentDate()+ ' Factura App';
         let metaDescription = document.querySelector('meta[name="description"]');
         if (metaDescription) {
             metaDescription.setAttribute('content', 'Software de gestión de las facturas y clientes para pequeño comercio, taller, autónomo '+globalCurrentDate());
